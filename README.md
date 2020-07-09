@@ -7,26 +7,26 @@ Saat ini semakin banyak masyarakat Indonesia di usia produktif mulai belajar ten
 Membuat aplikasi untuk diskusi dan tanya jawab seputar pemrograman seperti Stack Overflow dalam Bahasa Indonesia. 
 
 <h3>Terdapat Beberapa fitur utama: </h3>
- - Pengguna dapat melihat & membuat pertanyaan baru yang terdiri dari: judul, isi pertanyaan, dan tag (memerlukan autentikasi).
- - Setiap pertanyaan memiliki penanda waktu (created_at, updated_at).
- - Setiap pengguna dapat memberikan jawaban pada sebuah pertanyaan (memerlukan autentikasi).
- - Setiap pertanyaan dan jawaban memiliki poin vote yang merepresentasikan tingkat ke-relevan-an sebuah pertanyaan dan penting untuk segera dijawab. 
- - Setiap pengguna memiliki poin reputasi yang merepresentasikan tingkat kontribusi dalam forum tanya jawab. 
- - Pengguna dapat memberikan komentar pada jawaban atau pertanyaan. (memerlukan autentikasi)
- - Pengguna dapat memberikan upvote, satu pengguna hanya boleh memberikan satu upvote. (memerlukan autentikasi).
- - Setiap pertanyaan atau jawaban yang di-upvote oleh pengguna lain maka pengguna yang membuat pertanyaan atau jawaban tersebut mendapatkan 10 poin reputasi. 
- - Pengguna dapat memberikan downvote, ketika melakukan downvote maka pengguna tersebut dikurangi 1 poin reputasi. 
+ - Pengguna dapat melihat & membuat pertanyaan baru yang terdiri dari: judul, isi pertanyaan, dan tag (memerlukan autentikasi).<br>
+ - Setiap pertanyaan memiliki penanda waktu (created_at, updated_at).<br>
+ - Setiap pengguna dapat memberikan jawaban pada sebuah pertanyaan (memerlukan autentikasi).<br>
+ - Setiap pertanyaan dan jawaban memiliki poin vote yang merepresentasikan tingkat ke-relevan-an sebuah pertanyaan dan penting untuk segera dijawab. <br>
+ - Setiap pengguna memiliki poin reputasi yang merepresentasikan tingkat kontribusi dalam forum tanya jawab. <br>
+ - Pengguna dapat memberikan komentar pada jawaban atau pertanyaan. (memerlukan autentikasi)<br>
+ - Pengguna dapat memberikan upvote, satu pengguna hanya boleh memberikan satu upvote. (memerlukan autentikasi).<br>
+ - Setiap pertanyaan atau jawaban yang di-upvote oleh pengguna lain maka pengguna yang membuat pertanyaan atau jawaban tersebut mendapatkan 10 poin reputasi. <br>
+ - Pengguna dapat memberikan downvote, ketika melakukan downvote maka pengguna tersebut dikurangi 1 poin reputasi. <br>
  - Pembuat pertanyaan dapat menandai jawaban yang menurut dia paling tepat menyelesaikan masalahnya. 
- - Setiap jawaban yang ditandai sebagai jawaban tepat maka pengguna yang membuat jawaban tersebut mendapatkan tambahan reputasi 15 poin.
- - Pengguna yang boleh downvote adalah pengguna dengan reputasi minimal 15 poin
+ - Setiap jawaban yang ditandai sebagai jawaban tepat maka pengguna yang membuat jawaban tersebut mendapatkan tambahan reputasi 15 poin.<br>
+ - Pengguna yang boleh downvote adalah pengguna dengan reputasi minimal 15 poin<br>
 
 <h3>Spesifikasi : </h3>
- - Aplikasi dibuat menggunakan Laravel 6.0 ke atas.
- - Tampilan simple menggunakan bootstrap CSS atau template yang sesuai.
- - Menggunakan library editor WYSIWYG CKEditor/TinyMCE untuk membuat pertanyaan atau jawaban.
- - Tugas dikerjakan berkelompok (2 orang /3 orang) berkolaborasi menggunakan github.
- - (Opsional) Tugas dideploy di hosting atau di heroku.
- - Di akhir, semua kelompok mengirimkan demo video web buatan masing-masing.
+ - Aplikasi dibuat menggunakan Laravel 6.0 ke atas.<br>
+ - Tampilan simple menggunakan bootstrap CSS atau template yang sesuai.<br>
+ - Menggunakan library editor WYSIWYG CKEditor/TinyMCE untuk membuat pertanyaan atau jawaban.<br>
+ - Tugas dikerjakan berkelompok (2 orang /3 orang) berkolaborasi menggunakan github.<br>
+ - (Opsional) Tugas dideploy di hosting atau di heroku.<br>
+ - Di akhir, semua kelompok mengirimkan demo video web buatan masing-masing.<br>
 
 
 <h3>Tugas: </h3>
@@ -39,7 +39,7 @@ Aplikasikan materi-materi yang telah dipelajari sebelumnya di antaranya:
  5. View (Blade)
  6. CRUD (Create Read Update Delete)
  7. Eloquent Relationships
- 8. Laravel + Library/Packages
+ 8.Laravel + Library/Packages
 
 Catatan: Kreasikan sesuai dengan kreatifitas kelompok masing-masing. 
 
